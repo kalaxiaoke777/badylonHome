@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbadylon_home=globalThis.webpackChunkbadylon_home||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/badylon/blog","blogTitle":"Blog","authorsListPath":"/badylon/blog/authors"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbadylon_home=globalThis.webpackChunkbadylon_home||[]).push([[1248],{4034:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/badylon/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
